@@ -1,3 +1,4 @@
+
 # Step 1: Create a Github account
 If you're reading this then you've probably already completed this step. If not, that's ok too, head on over to the [Github Homepage](https://github.com/) and create an account.
 
@@ -23,5 +24,12 @@ Make sure that your selections match the ones in these screenshots and then clic
 # Step 3: Download the Visual Studio Extension
 Next, download the [Visual Studio Github extension](https://visualstudio.github.com/) 
 
+![Visual Studio Extension](https://user-images.githubusercontent.com/72061542/111847225-9da98700-88c5-11eb-9469-32da9b852ac8.png)
+
+You can also download the extension directly in visual studio if you prefer.
+![VSE2](https://user-images.githubusercontent.com/72061542/111847584-58d22000-88c6-11eb-8be1-6debb3d3f4cb.png)
+![VSE3](https://user-images.githubusercontent.com/72061542/111847589-5bcd1080-88c6-11eb-9911-b9ec28ac2c43.png)
+
+### That's it! Your workstation should be set up now. 
 
 
