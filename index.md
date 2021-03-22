@@ -1,4 +1,3 @@
-
 # Step 1: Create a Github account
 If you're reading this then you've probably already completed this step. If not, that's ok too, head on over to the [Github Homepage](https://github.com/) and create an account.
 
